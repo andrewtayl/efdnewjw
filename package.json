@@ -1,0 +1,28 @@
+{
+  "name": "nanwich",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "dotenv-flow": "^3.2.0",
+    "enmap": "^5.3.2",
+    "firebase": "^7.16.1",
+    "firebase-admin": "^9.0.0",
+    "fs": "0.0.1-security",
+    "install": "^0.13.0",
+    "mongoose": "^5.9.25",
+    "node-fetch": "^2.6.0",
+    "snekfetch": "^4.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
